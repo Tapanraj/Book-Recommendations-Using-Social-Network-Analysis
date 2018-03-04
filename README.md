@@ -2,7 +2,7 @@
 
 We will be using the Amazon Meta-Data Set maintained on the SNAP site. This data set is comprised of product and review metdata on 548,552 different products. The data was collected in 2006 by crawling the Amazon website.
 
-
+The data file is bigger than 25 MB and so I am mentioning my process steps and file contents below:
 The following information is available for each product in this dataset:
 •	Id: Product id (number 0, ..., 548551)
 •	ASIN: Amazon Standard Identification Number. 
